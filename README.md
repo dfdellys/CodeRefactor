@@ -6,4 +6,4 @@ The purpose of this project is to refactor a webpage to improve the codebase and
 
 ### Usage
 
-This is not a functional application. It is only for testing purposes.
+This is not a functional application. It is only for testing purposes. Follow the deployment page: https://dfdellys.github.io/CodeRefactor/
